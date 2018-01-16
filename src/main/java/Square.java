@@ -1,8 +1,12 @@
 public class Square {
     public static boolean isSquare(int n) {
-        for (int i = 0; i <=(n/2) ; i++) {
-            if(i*i==n) return true;
-        }
+
+       int lstDgt=n-(n%10);
+       if (lstDgt==2||lstDgt==3||lstDgt==7||lstDgt==8) return false;
+
+        int sqrt = (int) Math.sqrt(n);
+
+        if(sqrt*sqrt==n)return true;
         return false;
     }
 }
