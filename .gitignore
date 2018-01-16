@@ -1,0 +1,23 @@
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.gradle/
+.idea/
+build.gradle
+gradle/
+gradlew
+gradlew.bat
+out/
+settings.gradle
+src/main/resources/
+src/test/resources/
