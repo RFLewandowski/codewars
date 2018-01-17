@@ -1,4 +1,4 @@
-class Kata {
+public class Kata {
     public static String getMiddle(String word) {
         int len = word.length();
         if (len % 2 == 0)
