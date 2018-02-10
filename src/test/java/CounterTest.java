@@ -8,7 +8,7 @@ public class CounterTest {
             true,  true,  true,  true ,
             true,  false, true,  false,
             true,  false, false, true ,
-            true,  true,  true,  true ,
+            null,  true,  true,  true ,
             false, false, true,  true };
 
     @Test
