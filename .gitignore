@@ -12,11 +12,7 @@ out
 gen
 .gradle/
 .idea/
-build.gradle
 gradle/
-gradlew
-gradlew.bat
 out/
-settings.gradle
 src/main/resources/
 src/test/resources/
