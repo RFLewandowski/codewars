@@ -13,5 +13,4 @@ public class DivisibleNbTest {
     public void test2() {
         assertEquals(false, DivisibleNb.isDivisible(3, 3, 4));
     }
-
 }
