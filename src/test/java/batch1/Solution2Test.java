@@ -12,7 +12,7 @@ public class Solution2Test {
 
     @Test
     public void test3Hello() {
-        assertEquals("HelloHelloHello", Solution2.repeatStr(3, "Hello"));
+        assertEquals("HelloHelloHello", Solution2.repeatStr(3, "batch0.Hello"));
     }
 
     @Test

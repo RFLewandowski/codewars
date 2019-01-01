@@ -8,6 +8,6 @@ public class SolutionTest {
 
     @Test
     public void testSimpleString1() {
-        assertEquals("Hello World", Solution.removeExclamationMarks("Hello World!"));
+        assertEquals("batch0.Hello World", Solution.removeExclamationMarks("batch0.Hello World!"));
     }
 }
