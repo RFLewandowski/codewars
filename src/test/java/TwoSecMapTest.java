@@ -13,7 +13,6 @@ public class TwoSecMapTest {
         String result = twoSecMap.get(1);
         //Then
         assertEquals("one", result);
-
     }
 
     @Test
